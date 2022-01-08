@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarakeating
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning a lot! I'm very new to this, but specifically learning some things about pygame, and starting to get into basic C as well as Javascript
+- 🌱 I’m currently learning basic python, C, and a tiny bit of Javascript
 - 💞️ I’m looking to collaborate on beginner projects, so feel free to ask if you have one in mind!
 - 📫 How to reach me ... at my email is best: me@codewithsara.tech
 
